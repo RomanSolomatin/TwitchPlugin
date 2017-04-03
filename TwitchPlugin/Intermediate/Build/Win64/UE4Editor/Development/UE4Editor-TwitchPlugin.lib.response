@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TwitchPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+"E:\Unreal Engine\PlayerVsTwitch\Plugins\TwitchPlugin\Intermediate\Build\Win64\UE4Editor\Development\TwitchPlugin\Module.TwitchPlugin.cpp.obj"
+"E:\Unreal Engine\PlayerVsTwitch\Plugins\TwitchPlugin\Intermediate\Build\Win64\UE4Editor\Development\TwitchPlugin\TwitchPlugin.generated.cpp.obj"
+"E:\UE_4.15\Engine\Intermediate\Build\Win64\UE4Editor\Development\TwitchPlugin\PCLaunch.rc.res"
+"E:\UE_4.15\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"E:\Unreal Engine\PlayerVsTwitch\Plugins\TwitchPlugin\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TwitchPlugin.lib"
