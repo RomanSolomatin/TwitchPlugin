@@ -44,6 +44,7 @@ void UTwitchComponent::BeginPlay()
 
 void UTwitchComponent::BeginDestroy()
 {
+	Super::BeginDestroy();
 }
 
 
